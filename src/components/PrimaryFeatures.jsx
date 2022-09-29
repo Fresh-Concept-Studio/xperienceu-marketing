@@ -4,14 +4,14 @@ import { Tab } from '@headlessui/react'
 import clsx from 'clsx'
 
 import { Container } from '@/components/Container'
-import backgroundImage from '/images/background-features.jpg'
-import screenshotExpenses from '/images/screenshots/expenses.png'
-import smartTv1 from '/images/smart-tv-2.png'
-import screenshotReporting from '/images/screenshots/reporting.png'
-import screenshotVatReturns from '/images/screenshots/vat-returns.png'
-import responsiveImage from '/images/responsive.png'
-import screenshot1 from '/images/screenshot1.png'
-import screenshot2 from '/images/screenshot2.png'
+import backgroundImage from '../images/background-features.jpg'
+import screenshotExpenses from '../images/screenshots/expenses.png'
+import smartTv1 from '../images/smart-tv-2.png'
+import screenshotReporting from '../images/screenshots/reporting.png'
+import screenshotVatReturns from '../images/screenshots/vat-returns.png'
+import responsiveImage from '../images/responsive.png'
+import screenshot1 from '../images/screenshot1.png'
+import screenshot2 from '../images/screenshot2.png'
 
 const features = [
   {
