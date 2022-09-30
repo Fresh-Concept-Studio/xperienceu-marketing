@@ -30,7 +30,7 @@
         }, a))
       }
       var d = {
-        src: "_next/static/media/background-call-to-action.6a5a5672.jpg",
+        src: "/_next/static/media/background-call-to-action.6a5a5672.jpg",
         height: 2488,
         width: 4694,
         blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoKCgoKCgsMDAsPEA4QDxYUExMUFiIYGhgaGCIzICUgICUgMy03LCksNy1RQDg4QFFeT0pPXnFlZXGPiI+7u/sBCgoKCgoKCwwMCw8QDhAPFhQTExQWIhgaGBoYIjMgJSAgJSAzLTcsKSw3LVFAODhAUV5PSk9ecWVlcY+Ij7u7+//CABEIAAQACAMBIgACEQEDEQH/xAAnAAEBAAAAAAAAAAAAAAAAAAAABQEBAAAAAAAAAAAAAAAAAAAABv/aAAwDAQACEAMQAAAAmh4e/8QAGxAAAgEFAAAAAAAAAAAAAAAAAQIhAAMREyL/2gAIAQEAAT8AVhqucJAg4r//xAAXEQADAQAAAAAAAAAAAAAAAAAAAkJx/9oACAECAQE/AFrT/8QAGREAAQUAAAAAAAAAAAAAAAAAAAECMnHB/9oACAEDAQE/AFm+8P/Z",
@@ -346,32 +346,32 @@
         })
       }
       var C = {
-          src: "_next/static/media/laravel.7deed17e.svg",
+          src: "/_next/static/media/laravel.7deed17e.svg",
           height: 48,
           width: 136
         },
         I = {
-          src: "_next/static/media/mirage.18d2ec4e.svg",
+          src: "/_next/static/media/mirage.18d2ec4e.svg",
           height: 48,
           width: 138
         },
         R = {
-          src: "_next/static/media/statamic.6da5ebfb.svg",
+          src: "/_next/static/media/statamic.6da5ebfb.svg",
           height: 48,
           width: 147
         },
         B = {
-          src: "_next/static/media/statickit.d7937794.svg",
+          src: "/_next/static/media/statickit.d7937794.svg",
           height: 48,
           width: 127
         },
         U = {
-          src: "_next/static/media/transistor.7274e6c3.svg",
+          src: "/_next/static/media/transistor.7274e6c3.svg",
           height: 48,
           width: 158
         },
         Q = {
-          src: "_next/static/media/tuple.74eb0ae0.svg",
+          src: "/_next/static/media/tuple.74eb0ae0.svg",
           height: 48,
           width: 105
         };
@@ -458,7 +458,7 @@
       }
       var D = a(9808),
         F = {
-          src: "_next/static/media/background-features.5f7a9ac9.jpg",
+          src: "/_next/static/media/background-features.5f7a9ac9.jpg",
           height: 3272,
           width: 4490,
           blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoKCgoKCgsMDAsPEA4QDxYUExMUFiIYGhgaGCIzICUgICUgMy03LCksNy1RQDg4QFFeT0pPXnFlZXGPiI+7u/sBCgoKCgoKCwwMCw8QDhAPFhQTExQWIhgaGBoYIjMgJSAgJSAzLTcsKSw3LVFAODhAUV5PSk9ecWVlcY+Ij7u7+//CABEIAAYACAMBIgACEQEDEQH/xAAnAAEBAAAAAAAAAAAAAAAAAAAABQEBAAAAAAAAAAAAAAAAAAAABv/aAAwDAQACEAMQAAAAmB4f/8QAGRABAQADAQAAAAAAAAAAAAAAAQIAA0Fx/9oACAEBAAE/AC9M6kIW3rzzP//EABURAQEAAAAAAAAAAAAAAAAAAAAC/9oACAECAQE/AJf/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgAR/9oACAEDAQE/ALAp5v/Z",
@@ -469,7 +469,7 @@
           title: "Smart Displays",
           description: "Build rotating playlists for your TVs to create smart displays for your office, clinic, or retail store.",
           image: {
-            src: "_next/static/media/smart-tv-2.40bad6a1.png",
+            src: "/_next/static/media/smart-tv-2.40bad6a1.png",
             height: 732,
             width: 1087,
             blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAk0lEQVR42hXLSw7BUBSA4f/ce9zbqohHoroHMbRiEzOrMLYDE5EmRJ+DakvxzT85HvaDMYIPQqwqYizO+SEIQxlHk0J15FjFMZdbSrScstts+YeyyCnLHPU60PiY52eMb1Nm8wVGhK59kWcPVJ2HriZZR0Q2+c0Mq46qqmmbBm3qnD67E4wMbyyn65m+6xAxGBn4AgNSMwsitzdTAAAAAElFTkSuQmCC",
@@ -480,7 +480,7 @@
           title: "Personalized Playlists",
           description: "Send targeted content playlists directly to your customers phone or email, when the moment is right.",
           image: {
-            src: "_next/static/media/screenshot1.98493398.png",
+            src: "/_next/static/media/screenshot1.98493398.png",
             height: 1464,
             width: 2174,
             blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAYUlEQVR42nWMSw6DMBQDc/+bVpWoCkngfWyTAFssjbwY2WX5VWy10cwYkfQIRibzoXy+C1s/ZA65u8xi9E1EqPzXyr67+g6Z+yAFUJkQSZV1azzMleAAU14CvHo+NM7lW05tc50VY22KvgAAAABJRU5ErkJggg==",
@@ -491,7 +491,7 @@
           title: "In-Depth Tracking and Reporting",
           description: "Track every playlist view. See which playlists are successful, and see which are not.",
           image: {
-            src: "_next/static/media/screenshot2.7e041b4a.png",
+            src: "/_next/static/media/screenshot2.7e041b4a.png",
             height: 1444,
             width: 2144,
             blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAZ0lEQVR42kXNWwpDQQgD0Nn/WttymaejxtT6U0ES4YDt83ScI+GOWrkaDsRvzAzt9X5irk1VI4BKNWPi6m3MHWsfjrF55BJulDNp5rkJ+lgJhD2BJDAo5+0J4w9ElO5eLyKQ3TKj7i9g9JyLMDFXKwAAAABJRU5ErkJggg==",
@@ -502,7 +502,7 @@
           title: "Across All Devices",
           description: "Build a playlist once, and it seamlessly works across all devices. Unique share URL that anyone you send it to can access.",
           image: {
-            src: "_next/static/media/responsive.5254a39d.png",
+            src: "/_next/static/media/responsive.5254a39d.png",
             height: 1464,
             width: 2174,
             blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAIAAAD38zoCAAAAiElEQVR42gF9AIL/AP////39/fP09PHv7+no6Ozs7P7+/v7+/gD////u7u7n5ubW2NgnNztmZmPw8PD///8A8/Pz7u7umZucanJ1VlBOf3l2lZKR4N/fAO7t7uXm5n+BgoB1b7++v9jX1tPT0+Hg3wD29vbp6ero5+fv7u7y8vPi4uLg4ODw8PAa5WFnhQjN8QAAAABJRU5ErkJggg==",
@@ -612,7 +612,7 @@
           summary: "Rich content that meets your customer wherever they are",
           description: "Prepare customized playlists to keep your customer more engaged with your product or service. Send playlists out via email or text message.",
           image: {
-            src: "_next/static/media/dentist.4171f044.png",
+            src: "/_next/static/media/dentist.4171f044.png",
             height: 1096,
             width: 2160,
             blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAIAAAA8r+mnAAAAbElEQVR42mP4////v3//gOTv33/cfcL8PTxnzF/iHZbM8OzZ8zt37z1//uLevfvRcWk9czbs2b6toa6O4eWr14+fPH3x8tWN69cj81tnbb+y7sCZ7Oo2hj9Ac8Dg169fwbHZqTn1KX1LVH2TAceTRD8uKGRuAAAAAElFTkSuQmCC",
@@ -652,7 +652,7 @@
           summary: "Get employees up to speed in a format they'll actually enjoy",
           description: "Forget hours of boring training videos. Create a rich playlist that merges written content with images and video.",
           image: {
-            src: "_next/static/media/training.76ef9fd0.png",
+            src: "/_next/static/media/training.76ef9fd0.png",
             height: 1096,
             width: 2160,
             blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAIAAAA8r+mnAAAAaklEQVR42i3JPQ5AQBBA4b2E82kcQE/rBMRJJA4gOoVGgYZgiJ/SZnfGGluoXvI+kRWUl88I5jWI9DAz2hIJN9qDZOoGc+wAsFmQUmqNIkwXx+vr1lznOi/wA6Kwy4911RAz3VJZUEoh0Qd8K1U9CZybwQAAAABJRU5ErkJggg==",
@@ -680,7 +680,7 @@
           summary: "Smart displays around your office keep employees in-the-know",
           description: "Placing smart display playlists around your office is a great way to motivate employees, track key metrics, and keep everyone engaged.",
           image: {
-            src: "_next/static/media/smart-tv-1.6458f07d.png",
+            src: "/_next/static/media/smart-tv-1.6458f07d.png",
             height: 1096,
             width: 2160,
             blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAIAAAA8r+mnAAAAb0lEQVR42gFkAJv/AN3d3dzc3OHj4+Xb27elnaipn8PDv+jo6QDc3Nzj4+Py8vP5+PeGfG9rWDCjnpTp6usA29vb5+fn/f39/v/+mpuTMAAAmo6I6+ztAN7e3tTU1NjY2dra2qejnoeAere1suzs7apYSWW5Ral0AAAAAElFTkSuQmCC",
@@ -833,7 +833,7 @@
         })
       }
       var O = {
-          src: "_next/static/media/avatar-4.16b4e29e.png",
+          src: "/_next/static/media/avatar-4.16b4e29e.png",
           height: 112,
           width: 112,
           blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAA00lEQVR42gHIADf/ANfKg9jGh9PDr+/054R/ewAANCo5Th4zSgCtqZu1mYLOvKegmI9wZGYxOUooLkQ1NEUA1tfNxby1vrirjWVch2Rkd2FfRDFCAAAmANXEs9TFu9rby9+yp86alV1IS3x5eoiCgQCbjYbEt6zOybjBnI3GlYcAAC2fioOnhHoAOCU+wLWpvbGjm2tdy5N9WjVHYCo4dFtVADk3R7monHlNT5trac+dkpFgWnpjYL2pngB1bWaym4x4Q0B4VlldSlRyTFiIZ2mrjYLk4GBh+6M2wwAAAABJRU5ErkJggg==",
@@ -847,7 +847,7 @@
               name: "Sheryl Berge",
               role: "CEO at Lynch LLC",
               image: {
-                src: "_next/static/media/avatar-1.c78616b7.png",
+                src: "/_next/static/media/avatar-1.c78616b7.png",
                 height: 112,
                 width: 112,
                 blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAA00lEQVR42gHIADf/AF9gaznb7z/u/2Hs/3Pn/JSSnbp8abd9aQCjiHuMrrlsx9x0r8GWzd3lxrXFf1aeY1cAkWZTv6uk1ca/qnV0t2BRvHtQxIFgjVNOAIhqXYpcUq6IeoBARKdcV2QRCpNNPJ5gVQBjSEWSYU6AVkF8Pj6qVlFBGhSHQiufW0wAQR4kZUA6VzY1cEtDf0A0fFBNj0w5llZJAGlLTjIrNoBIRWk8Njs2M4tIR3o3KoZLPgCFdGxrSz1cKSktGyMAEh1TJSRfKCNZMi3NXVEX6+/gsAAAAABJRU5ErkJggg==",
@@ -869,7 +869,7 @@
               name: "Leland Kiehn",
               role: "Founder of Kiehn and Sons",
               image: {
-                src: "_next/static/media/avatar-5.e7f7faf2.png",
+                src: "/_next/static/media/avatar-5.e7f7faf2.png",
                 height: 112,
                 width: 112,
                 blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAA00lEQVR42gHIADf/AIxzWHxoVpqUj5KAcIxvTYtxVoRpS39nTwCZg2x2aFmDf398bmCIbFWAaFJeTzhhVEEAoJGDmot9l4h4no6Bm3dsdFVAg3hnX1pNALOrp7Sqo7qwqLWrpHhgW21eUY2EdXhyaACxq6uxq6idmptnZWhzWkxRSUZiWVFya2IArqimq6endXuHX1teQDg3Xl9mW1hdamFaAKWhopeYn1Nca2hocCcvOVZVXExHSWRgYACfnaCTkphlUE9BQEUgJC5EQkdKQ0ZfV1n+klWWifmJzAAAAABJRU5ErkJggg==",
@@ -883,7 +883,7 @@
               name: "Erin Powlowski",
               role: "COO at Armstrong Inc",
               image: {
-                src: "_next/static/media/avatar-2.c72e5a40.png",
+                src: "/_next/static/media/avatar-2.c72e5a40.png",
                 height: 112,
                 width: 112,
                 blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAA00lEQVR42gHIADf/AExfgkVdhHJ9lGV5moaYtY+dtYWNnI2arwBtcoWGl7WkssmOm7OFj6B4eYWnrbi1wdEAk5elsbfD3uXttbzFPAAAtpFwwL29qbbHAKenrMrN0u/z95+enjkAAMurk+LZz8zU2wC2trnEyNHJz9hqa2xUJAzXtp7Tx7rT1tcAsLO6rrK6paesVlNSYEUtvZl5vaqc2d7hAKaxvLCytJKSkHJSN2pNMWpJK45uU5SQjQB7fX1UUEsAAABtSihCLRsAABYMAAAAAACxi2hvlGr3GwAAAABJRU5ErkJggg==",
@@ -898,7 +898,7 @@
               name: "Peter Renolds",
               role: "Founder of West Inc",
               image: {
-                src: "_next/static/media/avatar-3.eaa9ef6f.png",
+                src: "/_next/static/media/avatar-3.eaa9ef6f.png",
                 height: 112,
                 width: 112,
                 blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAA0UlEQVR42mNYY2Z0PMJ/Z256elCAgziXn5pCW6x7XYg9w2RLg70eNgfSoqvDPVJNJU3ZxRfUpjelhzNke7onahsuC3HrjXFJM1OOt9ANFhRO9g1kCDSzNJGRqQ70aY70yLRRCDPTnV+afmxeP4OLikqQgVaIlUG0lVaHn4aPhnx5RMCW9nIGMymZBCer4jDXZE/LbAddH1N9ZSkFEx4lhvmOHg2B3tkhrvHulr62poG2po76+jY6BgyNPmGZfj5JXnax7jaRLpb+1qamatqGiuoANrg6XOImG4IAAAAASUVORK5CYII=",
